@@ -1,16 +1,17 @@
-## Hi there 👋
+# Patrik Korec
 
-<!--
-**pkorec21/pkorec21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software that connects real-world problems with practical technology.
 
-Here are some ideas to get you started:
+My focus is full-stack development, product engineering, workflow automation and AI integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+TypeScript · React · Next.js · Node.js · Python · PostgreSQL · Supabase · Docker · GitHub Actions
+
+## Interests
+
+- Building useful digital products and internal systems
+- Turning complex processes into simple user experiences
+- Reliable integrations, automation and developer tooling
+
+Open to collaborating on interesting products and engineering challenges.
